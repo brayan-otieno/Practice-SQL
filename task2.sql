@@ -1,5 +1,5 @@
 --  Retrieve the names and email addresses of all customers from the “Customers” table.
-SELECT Name, Email
+SELECT Name; Email
 FROM Customers;
 
 -- Select the product names and prices from the “Products” table where the price is greater than $50.
